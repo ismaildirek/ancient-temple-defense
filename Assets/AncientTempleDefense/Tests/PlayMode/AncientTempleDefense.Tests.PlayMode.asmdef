@@ -1,0 +1,12 @@
+{
+  "name": "AncientTempleDefense.Tests.PlayMode",
+  "rootNamespace": "AncientTempleDefense.Tests",
+  "references": [
+    "AncientTempleDefense.Runtime",
+    "Unity.InputSystem",
+    "Unity.InputSystem.TestFramework"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

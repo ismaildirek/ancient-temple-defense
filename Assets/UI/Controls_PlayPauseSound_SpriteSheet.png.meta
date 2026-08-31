@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 795c1f757a7eb714f82d4f904d8161e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1685752547655882642
+    second: Controls_PlayPauseSound_SpriteSheet_0
+  - first:
+      213: 9110562728963488960
+    second: Controls_PlayPauseSound_SpriteSheet_1
+  - first:
+      213: -6065935766962642619
+    second: Controls_PlayPauseSound_SpriteSheet_2
+  - first:
+      213: -6999262182875465163
+    second: Controls_PlayPauseSound_SpriteSheet_3
+  - first:
+      213: -924233756455752113
+    second: Controls_PlayPauseSound_SpriteSheet_4
+  - first:
+      213: 1951546862331776966
+    second: Controls_PlayPauseSound_SpriteSheet_5
+  - first:
+      213: 9110931401441698083
+    second: Controls_PlayPauseSound_SpriteSheet_6
+  - first:
+      213: 1510722510153484129
+    second: Controls_PlayPauseSound_SpriteSheet_7
+  - first:
+      213: -1562429341558026754
+    second: Controls_PlayPauseSound_SpriteSheet_8
+  - first:
+      213: 8882677070029601938
+    second: Controls_PlayPauseSound_SpriteSheet_9
+  - first:
+      213: -4691086280024371335
+    second: Controls_PlayPauseSound_SpriteSheet_10
+  - first:
+      213: 5667678321457636844
+    second: Controls_PlayPauseSound_SpriteSheet_11
+  - first:
+      213: -7297389960411664247
+    second: Controls_PlayPauseSound_SpriteSheet_12
+  - first:
+      213: 4465642804016584830
+    second: Controls_PlayPauseSound_SpriteSheet_13
+  - first:
+      213: -4258595974686109520
+    second: Controls_PlayPauseSound_SpriteSheet_14
+  - first:
+      213: -996931550869815529
+    second: Controls_PlayPauseSound_SpriteSheet_15
+  - first:
+      213: -4957008161509783703
+    second: Controls_PlayPauseSound_SpriteSheet_16
+  - first:
+      213: 2048073158383325737
+    second: Controls_PlayPauseSound_SpriteSheet_17
+  - first:
+      213: -4264218820813632036
+    second: Controls_PlayPauseSound_SpriteSheet_18
+  - first:
+      213: -4925622968211949639
+    second: Controls_PlayPauseSound_SpriteSheet_19
+  - first:
+      213: 4899292921378599946
+    second: Controls_PlayPauseSound_SpriteSheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 797
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2971d36b20ff46710800000000000000
+      internalID: 1685752547655882642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 631
+        width: 591
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc38cb38883f6e70800000000000000
+      internalID: 9110562728963488960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 825
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541ead30f8771dba0800000000000000
+      internalID: -6065935766962642619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 827
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af1ebd020adde90800000000000000
+      internalID: -6999262182875465163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 795
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea7099b467c23f0800000000000000
+      internalID: -924233756455752113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 615
+        width: 588
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf40d31889451b10800000000000000
+      internalID: 1951546862331776966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 793
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32162eb76d7807e70800000000000000
+      internalID: 9110931401441698083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 777
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16782eb6e1a27f410800000000000000
+      internalID: 1510722510153484129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 637
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd49cdbac2215ae0800000000000000
+      internalID: -1562429341558026754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 633
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c3f959bbb954b70800000000000000
+      internalID: 8882677070029601938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 616
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f407cf1e9e5eeb0800000000000000
+      internalID: -4691086280024371335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 600
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce52aab9763a7ae40800000000000000
+      internalID: 5667678321457636844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 633
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98039268e767aba90800000000000000
+      internalID: -7297389960411664247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 236
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e781033687629fd30800000000000000
+      internalID: 4465642804016584830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 244
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b01de6268d66e4c0800000000000000
+      internalID: -4258595974686109520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 218
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f760559003a22f0800000000000000
+      internalID: -996931550869815529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 210
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9674f78275b253bb0800000000000000
+      internalID: -4957008161509783703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 197
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9225377bfa73c6c10800000000000000
+      internalID: 2048073158383325737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 169
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd4ed4439372d4c0800000000000000
+      internalID: -4264218820813632036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 163
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7b83ae10ca4abb0800000000000000
+      internalID: -4925622968211949639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Controls_PlayPauseSound_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 29
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a047b5554f8cdf340800000000000000
+      internalID: 4899292921378599946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Controls_PlayPauseSound_SpriteSheet_0: 1685752547655882642
+      Controls_PlayPauseSound_SpriteSheet_1: 9110562728963488960
+      Controls_PlayPauseSound_SpriteSheet_10: -4691086280024371335
+      Controls_PlayPauseSound_SpriteSheet_11: 5667678321457636844
+      Controls_PlayPauseSound_SpriteSheet_12: -7297389960411664247
+      Controls_PlayPauseSound_SpriteSheet_13: 4465642804016584830
+      Controls_PlayPauseSound_SpriteSheet_14: -4258595974686109520
+      Controls_PlayPauseSound_SpriteSheet_15: -996931550869815529
+      Controls_PlayPauseSound_SpriteSheet_16: -4957008161509783703
+      Controls_PlayPauseSound_SpriteSheet_17: 2048073158383325737
+      Controls_PlayPauseSound_SpriteSheet_18: -4264218820813632036
+      Controls_PlayPauseSound_SpriteSheet_19: -4925622968211949639
+      Controls_PlayPauseSound_SpriteSheet_2: -6065935766962642619
+      Controls_PlayPauseSound_SpriteSheet_20: 4899292921378599946
+      Controls_PlayPauseSound_SpriteSheet_3: -6999262182875465163
+      Controls_PlayPauseSound_SpriteSheet_4: -924233756455752113
+      Controls_PlayPauseSound_SpriteSheet_5: 1951546862331776966
+      Controls_PlayPauseSound_SpriteSheet_6: 9110931401441698083
+      Controls_PlayPauseSound_SpriteSheet_7: 1510722510153484129
+      Controls_PlayPauseSound_SpriteSheet_8: -1562429341558026754
+      Controls_PlayPauseSound_SpriteSheet_9: 8882677070029601938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

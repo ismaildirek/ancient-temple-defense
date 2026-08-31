@@ -1,0 +1,9 @@
+{
+  "name": "AncientTempleDefense.Runtime",
+  "rootNamespace": "AncientTempleDefense",
+  "references": [
+    "Unity.InputSystem",
+    "Unity.ugui"
+  ],
+  "autoReferenced": true
+}

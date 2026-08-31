@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: cf1c6ed3ae949814abe851f933159669
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5107905890497000937
+    second: enemy_void_portal_v1_0
+  - first:
+      213: 4759934487937364024
+    second: enemy_void_portal_v1_1
+  - first:
+      213: -7266783684469534478
+    second: enemy_void_portal_v1_2
+  - first:
+      213: 2672481155769747892
+    second: enemy_void_portal_v1_3
+  - first:
+      213: -8026767536099362233
+    second: enemy_void_portal_v1_4
+  - first:
+      213: 5826970446703719282
+    second: enemy_void_portal_v1_5
+  - first:
+      213: 2962240807509162941
+    second: enemy_void_portal_v1_6
+  - first:
+      213: -7820339010047832909
+    second: enemy_void_portal_v1_7
+  - first:
+      213: 812471159907956515
+    second: enemy_void_portal_v1_8
+  - first:
+      213: -6405712319181798916
+    second: enemy_void_portal_v1_9
+  - first:
+      213: -4792066720044975350
+    second: enemy_void_portal_v1_10
+  - first:
+      213: 8514295645135042271
+    second: enemy_void_portal_v1_11
+  - first:
+      213: 7004573111373880695
+    second: enemy_void_portal_v1_12
+  - first:
+      213: -1931802770284964924
+    second: enemy_void_portal_v1_13
+  - first:
+      213: 5844552661649969867
+    second: enemy_void_portal_v1_14
+  - first:
+      213: -907492450023442280
+    second: enemy_void_portal_v1_15
+  - first:
+      213: 2349962487433914196
+    second: enemy_void_portal_v1_16
+  - first:
+      213: 703178494520651791
+    second: enemy_void_portal_v1_17
+  - first:
+      213: 7896421333489316729
+    second: enemy_void_portal_v1_18
+  - first:
+      213: -6242091002447308126
+    second: enemy_void_portal_v1_19
+  - first:
+      213: -2243047975225476724
+    second: enemy_void_portal_v1_20
+  - first:
+      213: 5200555631288630227
+    second: enemy_void_portal_v1_21
+  - first:
+      213: -1458282715125219673
+    second: enemy_void_portal_v1_22
+  - first:
+      213: -4918301164638480167
+    second: enemy_void_portal_v1_23
+  - first:
+      213: 1398382009290880859
+    second: enemy_void_portal_v1_24
+  - first:
+      213: -7263848029068037870
+    second: enemy_void_portal_v1_25
+  - first:
+      213: -7571692887739562684
+    second: enemy_void_portal_v1_26
+  - first:
+      213: 829693742564313341
+    second: enemy_void_portal_v1_27
+  - first:
+      213: 1613966243988056700
+    second: enemy_void_portal_v1_28
+  - first:
+      213: 1856501629103531844
+    second: enemy_void_portal_v1_29
+  - first:
+      213: -12304013928921179
+    second: enemy_void_portal_v1_30
+  - first:
+      213: 4241529832773984530
+    second: enemy_void_portal_v1_31
+  - first:
+      213: -1159353355996737720
+    second: enemy_void_portal_v1_32
+  - first:
+      213: -501196826365323299
+    second: enemy_void_portal_v1_33
+  - first:
+      213: -7329040908211519182
+    second: enemy_void_portal_v1_34
+  - first:
+      213: -5586238492252008634
+    second: enemy_void_portal_v1_35
+  - first:
+      213: -3777944301601542194
+    second: enemy_void_portal_v1_36
+  - first:
+      213: 1508395160093108536
+    second: enemy_void_portal_v1_37
+  - first:
+      213: -573921005959089818
+    second: enemy_void_portal_v1_38
+  - first:
+      213: -2295745540299084945
+    second: enemy_void_portal_v1_39
+  - first:
+      213: -3368293697887060186
+    second: enemy_void_portal_v1_40
+  - first:
+      213: 6396427615766758575
+    second: enemy_void_portal_v1_41
+  - first:
+      213: -4952790969392862976
+    second: enemy_void_portal_v1_42
+  - first:
+      213: 7719882170145597848
+    second: enemy_void_portal_v1_43
+  - first:
+      213: -2367292364442164704
+    second: enemy_void_portal_v1_44
+  - first:
+      213: -2910572603978291650
+    second: enemy_void_portal_v1_45
+  - first:
+      213: -3328066696755662948
+    second: enemy_void_portal_v1_46
+  - first:
+      213: -8930374909758273396
+    second: enemy_void_portal_v1_47
+  - first:
+      213: 2512940208069920899
+    second: enemy_void_portal_v1_48
+  - first:
+      213: 7837536811928662464
+    second: enemy_void_portal_v1_49
+  - first:
+      213: 4096061228116452964
+    second: enemy_void_portal_v1_50
+  - first:
+      213: -1040304160800704714
+    second: enemy_void_portal_v1_51
+  - first:
+      213: -4886341858985462898
+    second: enemy_void_portal_v1_52
+  - first:
+      213: 7934936290487806278
+    second: enemy_void_portal_v1_53
+  - first:
+      213: 2330121514035556023
+    second: enemy_void_portal_v1_54
+  - first:
+      213: -4089272231803408069
+    second: enemy_void_portal_v1_55
+  - first:
+      213: 9177452783127569901
+    second: enemy_void_portal_v1_56
+  - first:
+      213: 5654546015247903956
+    second: enemy_void_portal_v1_57
+  - first:
+      213: -4752634692034793912
+    second: enemy_void_portal_v1_58
+  - first:
+      213: -5171830160360087355
+    second: enemy_void_portal_v1_59
+  - first:
+      213: -6373311807240737290
+    second: enemy_void_portal_v1_60
+  - first:
+      213: -3971885555400927423
+    second: enemy_void_portal_v1_61
+  - first:
+      213: 4051935534520483993
+    second: enemy_void_portal_v1_62
+  - first:
+      213: -1902439485572714737
+    second: enemy_void_portal_v1_63
+  - first:
+      213: 7553466516812582710
+    second: enemy_void_portal_v1_64
+  - first:
+      213: 1869563671717301506
+    second: enemy_void_portal_v1_65
+  - first:
+      213: 6851738889504315705
+    second: enemy_void_portal_v1_66
+  - first:
+      213: -6754540190172333750
+    second: enemy_void_portal_v1_67
+  - first:
+      213: -2147454945102479625
+    second: enemy_void_portal_v1_68
+  - first:
+      213: 2601593496494831210
+    second: enemy_void_portal_v1_69
+  - first:
+      213: 7501895864621625235
+    second: enemy_void_portal_v1_70
+  - first:
+      213: -6013524937430282310
+    second: enemy_void_portal_v1_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a0dcac7a21d19b0800000000000000
+      internalID: -5107905890497000937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1078
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83033a3923fae0240800000000000000
+      internalID: 4759934487937364024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1074
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0d6937db2372b90800000000000000
+      internalID: -7266783684469534478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_3
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1078
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9c496a37f861520800000000000000
+      internalID: 2672481155769747892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 953
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74af82c14713b9090800000000000000
+      internalID: -8026767536099362233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1039
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2737978afbe8dd050800000000000000
+      internalID: 5826970446703719282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1030
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbffbed15efb1920800000000000000
+      internalID: 2962240807509162941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1028
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc08f2ba13987390800000000000000
+      internalID: -7820339010047832909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_8
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1030
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327309c173a764b00800000000000000
+      internalID: 812471159907956515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_9
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1018
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf143d9a5965a17a0800000000000000
+      internalID: -6405712319181798916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 931
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b7fb325b82f7db0800000000000000
+      internalID: -4792066720044975350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_11
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 929
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6fde057cad82670800000000000000
+      internalID: 8514295645135042271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 925
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d51ba022e353160800000000000000
+      internalID: 7004573111373880695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 845
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c39c059d9bd035e0800000000000000
+      internalID: -1931802770284964924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_14
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 887
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2d5b41ea50c1150800000000000000
+      internalID: 5844552661649969867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 65
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898f000cc60f763f0800000000000000
+      internalID: -907492450023442280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_16
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 867
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457edf28e6ebc9020800000000000000
+      internalID: 2349962487433914196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_17
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 867
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f89b7d1132c900800000000000000
+      internalID: 703178494520651791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 761
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9737273ad59b59d60800000000000000
+      internalID: 7896421333489316729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_19
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 761
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa57772e43af59a0800000000000000
+      internalID: -6242091002447308126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_20
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 754
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b68e20c71fd0e0800000000000000
+      internalID: -2243047975225476724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_21
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 753
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbbd9dfac51c2840800000000000000
+      internalID: 5200555631288630227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 740
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae7edec89323cbe0800000000000000
+      internalID: -1458282715125219673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_23
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 753
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d85557262faebbb0800000000000000
+      internalID: -4918301164638480167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 720
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57741c470d086310800000000000000
+      internalID: 1398382009290880859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 723
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2117afcf3b0a13b90800000000000000
+      internalID: -7263848029068037870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_26
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 740
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4458ee56f61fbe690800000000000000
+      internalID: -7571692887739562684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 700
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df809ed101aa38b00800000000000000
+      internalID: 829693742564313341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_28
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 708
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a216c6fb5f56610800000000000000
+      internalID: 1613966243988056700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_29
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 714
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44766af356e93c910800000000000000
+      internalID: 1856501629103531844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_30
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 713
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a78474809944dff0800000000000000
+      internalID: -12304013928921179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_31
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 720
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21127ba09e0fcda30800000000000000
+      internalID: 4241529832773984530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f48a6e34629efe0800000000000000
+      internalID: -1159353355996737720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 692
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd711f154246b09f0800000000000000
+      internalID: -501196826365323299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_34
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 658
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310fb9ff140a4a90800000000000000
+      internalID: -7329040908211519182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 612
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f84be30b1b972b0800000000000000
+      internalID: -5586238492252008634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_36
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 618
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf24d19cab029bc0800000000000000
+      internalID: -3777944301601542194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_37
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 592
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839a4420865eee410800000000000000
+      internalID: 1508395160093108536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_38
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 570
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6617ca6c2e50908f0800000000000000
+      internalID: -573921005959089818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 537
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b29cf289fd320e0800000000000000
+      internalID: -2295745540299084945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 552
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f314e4aba6141d0800000000000000
+      internalID: -3368293697887060186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 535
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4c64dd60da4c850800000000000000
+      internalID: 6396427615766758575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 535
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0096396bad6244bb0800000000000000
+      internalID: -4952790969392862976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 489
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899666b9ee7822b60800000000000000
+      internalID: 7719882170145597848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_44
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 504
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0222ee11320b52fd0800000000000000
+      internalID: -2367292364442164704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 438
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36e3e633a19b97d0800000000000000
+      internalID: -2910572603978291650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_46
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 471
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f221fd8f450d1d0800000000000000
+      internalID: -3328066696755662948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_47
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 466
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c880cc0b55fe01480800000000000000
+      internalID: -8930374909758273396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_48
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 477
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388cdcb1ec1cfd220800000000000000
+      internalID: 2512940208069920899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 453
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c13e05943684cc60800000000000000
+      internalID: 7837536811928662464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 457
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466a1203cf128d830800000000000000
+      internalID: 4096061228116452964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_51
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 451
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637fc15a0e81091f0800000000000000
+      internalID: -1040304160800704714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_52
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 445
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83bc0cd7f9303cb0800000000000000
+      internalID: -4886341858985462898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_53
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 435
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649a1edd38e8e1e60800000000000000
+      internalID: 7934936290487806278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_54
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 403
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea597eb21465020800000000000000
+      internalID: 2330121514035556023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 411
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b313d71329cff37c0800000000000000
+      internalID: -4089272231803408069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 401
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de52d399eacdc5f70800000000000000
+      internalID: 9177452783127569901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_57
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 411
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dca3fc44abf87e40800000000000000
+      internalID: 5654546015247903956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_58
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 395
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e611a9def3b0eb0800000000000000
+      internalID: -4752634692034793912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_59
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 353
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0e515eed7f938b0800000000000000
+      internalID: -5171830160360087355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 304
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdec96bda27d87a0800000000000000
+      internalID: -6373311807240737290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_61
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 300
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14792dd912701e8c0800000000000000
+      internalID: -3971885555400927423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_62
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 288
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99040eb86ed5b3830800000000000000
+      internalID: 4051935534520483993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fe2cf0e5d2995e0800000000000000
+      internalID: -1902439485572714737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_64
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 200
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fcb6de6cd43d860800000000000000
+      internalID: 7553466516812582710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_65
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 148
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4fa9014602f910800000000000000
+      internalID: 1869563671717301506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_66
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 142
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93952aac734461f50800000000000000
+      internalID: 6851738889504315705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49bdafeb7d0342a0800000000000000
+      internalID: -6754540190172333750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feb20aea15b232e0800000000000000
+      internalID: -2147454945102479625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_69
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a667a805087ba1420800000000000000
+      internalID: 2601593496494831210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_70
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 19
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f6eb8ca861c1860800000000000000
+      internalID: 7501895864621625235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_void_portal_v1_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfc3803eeaab8ca0800000000000000
+      internalID: -6013524937430282310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enemy_void_portal_v1_0: -5107905890497000937
+      enemy_void_portal_v1_1: 4759934487937364024
+      enemy_void_portal_v1_10: -4792066720044975350
+      enemy_void_portal_v1_11: 8514295645135042271
+      enemy_void_portal_v1_12: 7004573111373880695
+      enemy_void_portal_v1_13: -1931802770284964924
+      enemy_void_portal_v1_14: 5844552661649969867
+      enemy_void_portal_v1_15: -907492450023442280
+      enemy_void_portal_v1_16: 2349962487433914196
+      enemy_void_portal_v1_17: 703178494520651791
+      enemy_void_portal_v1_18: 7896421333489316729
+      enemy_void_portal_v1_19: -6242091002447308126
+      enemy_void_portal_v1_2: -7266783684469534478
+      enemy_void_portal_v1_20: -2243047975225476724
+      enemy_void_portal_v1_21: 5200555631288630227
+      enemy_void_portal_v1_22: -1458282715125219673
+      enemy_void_portal_v1_23: -4918301164638480167
+      enemy_void_portal_v1_24: 1398382009290880859
+      enemy_void_portal_v1_25: -7263848029068037870
+      enemy_void_portal_v1_26: -7571692887739562684
+      enemy_void_portal_v1_27: 829693742564313341
+      enemy_void_portal_v1_28: 1613966243988056700
+      enemy_void_portal_v1_29: 1856501629103531844
+      enemy_void_portal_v1_3: 2672481155769747892
+      enemy_void_portal_v1_30: -12304013928921179
+      enemy_void_portal_v1_31: 4241529832773984530
+      enemy_void_portal_v1_32: -1159353355996737720
+      enemy_void_portal_v1_33: -501196826365323299
+      enemy_void_portal_v1_34: -7329040908211519182
+      enemy_void_portal_v1_35: -5586238492252008634
+      enemy_void_portal_v1_36: -3777944301601542194
+      enemy_void_portal_v1_37: 1508395160093108536
+      enemy_void_portal_v1_38: -573921005959089818
+      enemy_void_portal_v1_39: -2295745540299084945
+      enemy_void_portal_v1_4: -8026767536099362233
+      enemy_void_portal_v1_40: -3368293697887060186
+      enemy_void_portal_v1_41: 6396427615766758575
+      enemy_void_portal_v1_42: -4952790969392862976
+      enemy_void_portal_v1_43: 7719882170145597848
+      enemy_void_portal_v1_44: -2367292364442164704
+      enemy_void_portal_v1_45: -2910572603978291650
+      enemy_void_portal_v1_46: -3328066696755662948
+      enemy_void_portal_v1_47: -8930374909758273396
+      enemy_void_portal_v1_48: 2512940208069920899
+      enemy_void_portal_v1_49: 7837536811928662464
+      enemy_void_portal_v1_5: 5826970446703719282
+      enemy_void_portal_v1_50: 4096061228116452964
+      enemy_void_portal_v1_51: -1040304160800704714
+      enemy_void_portal_v1_52: -4886341858985462898
+      enemy_void_portal_v1_53: 7934936290487806278
+      enemy_void_portal_v1_54: 2330121514035556023
+      enemy_void_portal_v1_55: -4089272231803408069
+      enemy_void_portal_v1_56: 9177452783127569901
+      enemy_void_portal_v1_57: 5654546015247903956
+      enemy_void_portal_v1_58: -4752634692034793912
+      enemy_void_portal_v1_59: -5171830160360087355
+      enemy_void_portal_v1_6: 2962240807509162941
+      enemy_void_portal_v1_60: -6373311807240737290
+      enemy_void_portal_v1_61: -3971885555400927423
+      enemy_void_portal_v1_62: 4051935534520483993
+      enemy_void_portal_v1_63: -1902439485572714737
+      enemy_void_portal_v1_64: 7553466516812582710
+      enemy_void_portal_v1_65: 1869563671717301506
+      enemy_void_portal_v1_66: 6851738889504315705
+      enemy_void_portal_v1_67: -6754540190172333750
+      enemy_void_portal_v1_68: -2147454945102479625
+      enemy_void_portal_v1_69: 2601593496494831210
+      enemy_void_portal_v1_7: -7820339010047832909
+      enemy_void_portal_v1_70: 7501895864621625235
+      enemy_void_portal_v1_71: -6013524937430282310
+      enemy_void_portal_v1_8: 812471159907956515
+      enemy_void_portal_v1_9: -6405712319181798916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

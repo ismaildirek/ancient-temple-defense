@@ -1,0 +1,367 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3472484098169277966
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6405297772453788127}
+  - component: {fileID: 1359813788513995204}
+  - component: {fileID: 6345662783667287026}
+  - component: {fileID: 4497163631493401694}
+  - component: {fileID: 3830300684930431832}
+  - component: {fileID: 3115092855233461239}
+  - component: {fileID: 905262649654490404}
+  - component: {fileID: 1593809642581560283}
+  - component: {fileID: 8983435444244952276}
+  - component: {fileID: 5831684445190480783}
+  - component: {fileID: 6171008850310964398}
+  - component: {fileID: 4481002158187518057}
+  m_Layer: 0
+  m_Name: ExplodingSlimeEnemy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6405297772453788127
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.35, y: 1.35, z: 1.35}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1359813788513995204
+SpriteRenderer:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 9
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 8793639957104055765, guid: df6e574b84354394e8f320364f10d595, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.56, y: 1.56}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
+--- !u!95 &6345662783667287026
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d93e43f89fcea6d4285cbdf64cb663bb, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!70 &4497163631493401694
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0.06037037}
+  m_Size: {x: 0.3744, y: 0.34074074}
+  m_Direction: 1
+--- !u!50 &3830300684930431832
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 1
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!114 &3115092855233461239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62704b3dc91dac24ca0462191a77e186, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: AncientTempleDefense.Runtime::AncientTempleDefense.Enemies.EnemyCombatant
+  beklemeAnimasyonu: Idle
+  hasarAlmaAnimasyonu: Hit
+  "\xF6l\xFCmAnimasyonu": Death
+  "gerekliVuru\u015FSay\u0131s\u0131": 3
+  "do\u011FmaYOfseti": 0
+--- !u!114 &905262649654490404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fe4a470045723246920f0ea9f79b3e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: AncientTempleDefense.Runtime::AncientTempleDefense.Enemies.EnemyBrain
+  beklemeAnimasyonu: Idle
+  hareketAnimasyonu: Move
+  "birinciSald\u0131r\u0131Animasyonu": Attack1
+  "ikinciSald\u0131r\u0131Animasyonu": Attack2
+  "\xFC\xE7\xFCnc\xFCSald\u0131r\u0131Animasyonu": 
+  savunmaAnimasyonu: 
+  "hareketH\u0131z\u0131": 1.65
+  "sald\u0131r\u0131Menzili": 1.15
+  farkEtmeMenzili: 45
+  "sald\u0131r\u0131BeklemeS\xFCresi": 1.25
+  "temelSald\u0131r\u0131Hasar\u0131": 8
+  kaynakVarsayilanYonuSola: 0
+--- !u!114 &1593809642581560283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51b563819b2fd1540bf22df73134d71f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: AncientTempleDefense.Runtime::AncientTempleDefense.Enemies.EnemyRoleProfile
+  "hedef\xD6nceli\u011Fi": 0
+  "u\xE7anD\xFC\u015Fman": 0
+  "can\xC7arpan\u0131": 1
+  "hasar\xC7arpan\u0131": 0.7
+  "hareketH\u0131z\u0131\xC7arpan\u0131": 0.8
+  "vuru\u015FH\u0131z\u0131\xC7arpan\u0131": 0.85
+--- !u!114 &8983435444244952276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd8fe1f735290a54f9bf824adfbb3829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: AncientTempleDefense.Runtime::AncientTempleDefense.Vfx.EnemyVfxController
+  "do\u011FmaEfekti": {fileID: 0}
+  hasarEfekti: {fileID: 100006, guid: a3c75a37f28d9c143b787fa14b51fefa, type: 3}
+  "sald\u0131r\u0131TemasEfekti": {fileID: 100006, guid: a3c75a37f28d9c143b787fa14b51fefa, type: 3}
+  "\xF6l\xFCmEfekti": {fileID: 100008, guid: 4aaef6017055407449cd981ee67a70b7, type: 3}
+  "\xF6zelEfekt": {fileID: 100008, guid: 3b686fba4d2064d45a9c7b808cd79755, type: 3}
+  "efekt\xD6l\xE7e\u011Fi": 0.026
+  efektYOfseti: 0.08
+  "efekt\xD6mr\xFC": 1.15
+  "particleS\u0131ralamas\u0131": 12
+--- !u!114 &5831684445190480783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ee5cc1b30dcec345a9625a934e76475, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: AncientTempleDefense.Runtime::AncientTempleDefense.Economy.EnemyLootDropper
+  coinDusmeIhtimali: 0.4
+  iksirDusmeIhtimali: 0.2
+  tapinakIksiriDusmeIhtimali: 0.3
+  coinPrefabi: {fileID: 1679558406038343691, guid: 36974f6762724d445b3ef7dc08818c4a, type: 3}
+  canIksiriPrefabi: {fileID: 1284263793106535564, guid: 3c49fd30cfe55fe40944dc60a0325e3d, type: 3}
+  tapinakIksiriPrefabi: {fileID: 29214971725659124, guid: c5a4dbcd9e876ed43a28aaeac0049320, type: 3}
+--- !u!114 &6171008850310964398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94284cea2870d8d49b6623bff15551a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: AncientTempleDefense.Runtime::AncientTempleDefense.Audio.EnemyAudioController
+  "birinciSald\u0131r\u0131Sesleri":
+    sesKlipleri:
+    - sesKlibi: {fileID: 8300000, guid: 83829ff414f47a048b5387e4ab33571c, type: 3}
+      "vuru\u015FZirvesiSaniyesi": 0.08
+    sesSeviyesi: 0.66
+    "enD\xFC\u015F\xFCkPerde": 0.92
+    "enY\xFCksekPerde": 1.08
+    "yumu\u015FakBiti\u015FS\xFCresi": 0.14
+  "ikinciSald\u0131r\u0131Sesleri":
+    sesKlipleri:
+    - sesKlibi: {fileID: 8300000, guid: a652877b012108e41871f867ada9f176, type: 3}
+      "vuru\u015FZirvesiSaniyesi": 0.1
+    sesSeviyesi: 0.68
+    "enD\xFC\u015F\xFCkPerde": 0.92
+    "enY\xFCksekPerde": 1.08
+    "yumu\u015FakBiti\u015FS\xFCresi": 0.14
+  hasarAlmaSesleri:
+    sesKlipleri:
+    - sesKlibi: {fileID: 8300000, guid: 7c47b20bb9874304a809dc5580d403ba, type: 3}
+      "vuru\u015FZirvesiSaniyesi": 0.04
+    sesSeviyesi: 0.62
+    "enD\xFC\u015F\xFCkPerde": 0.92
+    "enY\xFCksekPerde": 1.08
+    "yumu\u015FakBiti\u015FS\xFCresi": 0.14
+  "\xF6l\xFCmSesleri":
+    sesKlipleri:
+    - sesKlibi: {fileID: 8300000, guid: 566d2ea6240b489479a6e9fd608c2621, type: 3}
+      "vuru\u015FZirvesiSaniyesi": 0.06
+    sesSeviyesi: 0.7
+    "enD\xFC\u015F\xFCkPerde": 0.92
+    "enY\xFCksekPerde": 1.08
+    "yumu\u015FakBiti\u015FS\xFCresi": 0.14
+  savunmaSesleri:
+    sesKlipleri: []
+    sesSeviyesi: 0
+    "enD\xFC\u015F\xFCkPerde": 0.92
+    "enY\xFCksekPerde": 1.08
+    "yumu\u015FakBiti\u015FS\xFCresi": 0.14
+  "\xF6zelSald\u0131r\u0131Sesleri":
+    sesKlipleri: []
+    sesSeviyesi: 0
+    "enD\xFC\u015F\xFCkPerde": 0.92
+    "enY\xFCksekPerde": 1.08
+    "yumu\u015FakBiti\u015FS\xFCresi": 0.14
+  "g\xFC\xE7l\xFC\xD6zelSald\u0131r\u0131Sesleri":
+    sesKlipleri: []
+    sesSeviyesi: 0
+    "enD\xFC\u015F\xFCkPerde": 0.92
+    "enY\xFCksekPerde": 1.08
+    "yumu\u015FakBiti\u015FS\xFCresi": 0.14
+  "e\u015FZamanl\u0131SesSay\u0131s\u0131": 3
+  "\xFC\xE7BoyutluSesKar\u0131\u015F\u0131m\u0131": 0.18
+  "sald\u0131r\u0131TemasZaman\u0131": 0.48
+--- !u!114 &4481002158187518057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3472484098169277966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31ccb5836981073449df8bac758bd9cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: AncientTempleDefense.Runtime::AncientTempleDefense.Enemies.ExplodingEnemy
+  "patlamaYar\u0131\xE7ap\u0131": 2.2
+  "patlamaHasar\xC7arpan\u0131": 1.6
+  "patlamaEfekt\xC7arpan\u0131": 0.7

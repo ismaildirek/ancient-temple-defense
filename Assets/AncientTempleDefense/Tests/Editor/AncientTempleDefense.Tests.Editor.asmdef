@@ -1,0 +1,13 @@
+{
+  "name": "AncientTempleDefense.Tests.Editor",
+  "rootNamespace": "AncientTempleDefense.Tests",
+  "references": [
+    "AncientTempleDefense.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

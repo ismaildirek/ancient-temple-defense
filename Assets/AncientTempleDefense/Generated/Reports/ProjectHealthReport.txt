@@ -1,0 +1,9 @@
+Ancient Temple Defense - Project Health Report
+UTC: 2026-08-26T09:13:19.8321361Z
+Arena sorting fixes: 1
+Animator/collider prefab fixes: 0
+Referenced sprite import fixes: 0
+Audio import fixes: 0
+Missing scripts: 0
+Runtime optimization: pooled combat VFX, cached temple lookup, no redundant target fallback search
+Expected runtime limits: max 8 enemies, max 48 particles per system, max 10 idle pooled effects per prefab
